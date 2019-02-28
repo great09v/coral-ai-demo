@@ -1,0 +1,4 @@
+numpy
+papermill
+flask
+scikit-image
